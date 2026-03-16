@@ -1,9 +1,12 @@
-<!-- Banner (replace the URL with your own banner image if you have one) -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=180&section=header&text=Dhanush%20M&fontSize=48&fontColor=ffffff&animation=twinkling" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=190&section=header&text=Dhanush%20M&fontSize=52&fontColor=ffffff&animation=twinkling&desc=Full%20Stack%20Developer%20(MERN)%20%E2%80%A2%20React%20%2F%20Next.js%20%E2%80%A2%20Node.js%20%E2%80%A2%20TypeScript&descAlignY=75&descSize=14" alt="header" />
 </p>
 
-<h3 align="center">Full Stack Developer (MERN) • JavaScript/TypeScript • React/Next.js • Node.js</h3>
+<!-- Typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+(MERN);React+%2F+Next.js+%7C+Node.js+%7C+TypeScript;Clean+UI+%7C+Scalable+APIs+%7C+Always+Learning" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="mailto:dhanush11004@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-dhanush11004%40gmail.com-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -11,19 +14,25 @@
   <a href="https://19cs023.github.io/portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </p>
 
----
+<!-- Fancy divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,100:0ea5e9&height=3&section=footer" alt="divider" />
+</p>
 
 ## About Me
 
 - I build modern web apps using **React/Next.js** and **Node.js**.
 - Interested in **clean UI**, **scalable APIs**, and **real-world projects**.
 - Always learning and improving.
-<p align="left">
-  <img alt="Highest Qualification" src="https://img.shields.io/badge/🎓%20Highest%20Qualification-M.Sc.%20Computer%20Science%20(2022–2024)-6366f1?style=for-the-badge" />
-</p>
+
 ---
 
 ## 🧰 Tech Stack
+
+<!-- Skill icons row (stunning, compact) -->
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,java,react,nextjs,redux,html,css,bootstrap,nodejs,express,graphql,mongodb,mysql,docker,git,github,vscode,postman,jest&perline=12" alt="Skill Icons" />
+</p>
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=f7df1e)
@@ -60,7 +69,6 @@
 </p>
 
 ### 🧪 Testing & Debugging
-
 <p align="left">
   <img alt="Jest" src="https://img.shields.io/badge/Jest-111827?style=for-the-badge&logo=jest&logoColor=C21325" />
   <img alt="React Testing Library" src="https://img.shields.io/badge/React%20Testing%20Library-111827?style=for-the-badge&logo=testinglibrary&logoColor=E33332" />
@@ -70,17 +78,35 @@
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-111827?style=for-the-badge&logo=githubactions&logoColor=2088FF" />
 </p>
 
-## About Me
+---
 
-- I build modern web apps using **React/Next.js** and **Node.js**.
-- Interested in **clean UI**, **scalable APIs**, and **real-world projects**.
-- Always learning and improving.
+## 📄 Resume (PDF)
+
+<p align="left">
+  <a href="Dhanush%20M%20v4.pdf">
+    <img src="https://img.shields.io/badge/Resume-PDF-ef4444?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume PDF" />
+  </a>
+</p>
+
+- View / Download: **[Dhanush M v4.pdf](Dhanush%20M%20v4.pdf)**
 
 ---
 
+## ⭐ Highlights
 
+<p align="left">
+  <img src="https://img.shields.io/badge/DSA-100%2B%20Problems-22c55e?style=for-the-badge" alt="100+ problems" />
+  <img src="https://img.shields.io/badge/MERN-Full%20Stack-6366f1?style=for-the-badge" alt="MERN" />
+  <img src="https://img.shields.io/badge/Focus-Clean%20UI%20%26%20APIs-0ea5e9?style=for-the-badge" alt="Focus" />
+</p>
+
+- ✅ Solved **100+** coding problems (DSA practice)
+- ✅ Built **full-stack MERN** applications with authentication and dashboards
+- ✅ Comfortable with **Git workflow**, clean documentation, and collaboration
+- ✅ Strong debugging and problem-solving mindset
 
 ---
+
 ## Workshops
 
 - **C & C++** — Spoken Tutorial Project, IIT Bombay  
@@ -89,28 +115,7 @@
 - **RDBMS** — Spoken Tutorial Project, IIT Bombay  
 - **Python (50 hours)** — PDPM Institute of Technology Designing and Manufacturing, Jabalpur  
 - **AI/ML (24 hours)** — PDPM Institute of Technology Designing and Manufacturing, Jabalpur  
-- **Advanced Research Methodology** — SRM Institute of Science and Technology, Ramapuram Campus
----
-
-## 📄 Resume (Preview)
-
-<details>
-  <summary><b>📄 Resume (PDF)</b></summary>
-  <br />
-
-  [![Resume PDF](https://img.shields.io/badge/Resume-PDF-ef4444?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](Dhanush%20M%20v4.pdf)
-
-  - View / Download: **[Dhanush M v4.pdf](Dhanush%20M%20v4.pdf)**
-</details>
-
----
-
-## ⭐ Highlights
-
-- ✅ Solved **100+** coding problems (DSA practice)
-- ✅ Built **full-stack MERN** applications with authentication and dashboards
-- ✅ Comfortable with **Git workflow**, clean documentation, and collaboration
-- ✅ Strong debugging and problem-solving mindset
+- **Advanced Research Methodology** — SRM Institute of Science and Technology, Ramapuram Campus  
 
 ---
 
@@ -155,11 +160,7 @@
 - LinkedIn: https://www.linkedin.com/in/dhanush-m-6870a22a2
 - Portfolio: https://19cs023.github.io/portfolio/
 
----
-
+<!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,100:0ea5e9&height=3&section=footer" alt="footer line" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=120&section=footer" alt="footer" />
 </p>
-
-
-
