@@ -1,22 +1,23 @@
 # Hi there 👋, I'm Dhanush M
 
-I'm a software developer specializing in javascript development. 
+![Resume preview](image.png)
+
+I'm a software developer specializing in JavaScript development.
 
 ## 🧰 Skills
 
-let skills = { <br>
-    languages: ['Javascript', 'Python', 'C', 'C++', 'Java', 'Typescript'],<br>
-    frontend: ['React', 'next', 'Redux', 'HTML', 'CSS', 'Bootstrap'],<br>
-    backend: ['Node.js', 'Express', 'REST API', 'GraphQL', 'Docker'],<br>
-    databases: ['MongoDB', 'MySQL'],<br>
-    tools: ['Git', 'GitHub', 'VSCode', 'npm'],<br>
-};<br>
+```js
+const skills = {
+  languages: ['JavaScript', 'TypeScript', 'Python', 'C', 'C++', 'Java'],
+  frontend: ['React', 'Next.js', 'Redux', 'HTML', 'CSS', 'Bootstrap'],
+  backend: ['Node.js', 'Express', 'REST API', 'GraphQL', 'Docker'],
+  databases: ['MongoDB', 'MySQL'],
+  tools: ['Git', 'GitHub', 'VS Code', 'npm'],
+};
+```
 
 ## Contact Me 📫
 
-Feel free to reach out to me through any of the following channels:
-
 - Email: [dhanush11004@gmail.com](mailto:dhanush11004@gmail.com)
-- LinkedIn: [Dhanush M](https://www.linkedin.com/in/dhanush-m-6870a22a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- LinkedIn: [Dhanush M](https://www.linkedin.com/in/dhanush-m-6870a22a2)
 - Personal Website: [my portfolio](https://19cs023.github.io/portfolio/)
-
