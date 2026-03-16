@@ -18,7 +18,9 @@
 - I build modern web apps using **React/Next.js** and **Node.js**.
 - Interested in **clean UI**, **scalable APIs**, and **real-world projects**.
 - Always learning and improving.
-
+<p align="left">
+  <img alt="Highest Qualification" src="https://img.shields.io/badge/🎓%20Highest%20Qualification-M.Sc.%20Computer%20Science%20(2022–2024)-6366f1?style=for-the-badge" />
+</p>
 ---
 
 ## 🧰 Tech Stack
@@ -51,15 +53,99 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=22c55e)
 ![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479a1)
 
+### 🖥️ Operating Systems
+<p align="left">
+  <img alt="Windows" src="https://img.shields.io/badge/Windows-111827?style=for-the-badge&logo=windows&logoColor=00A4EF" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624" />
+</p>
+
+### 🧪 Testing & Debugging
+
+<p align="left">
+  <img alt="Jest" src="https://img.shields.io/badge/Jest-111827?style=for-the-badge&logo=jest&logoColor=C21325" />
+  <img alt="React Testing Library" src="https://img.shields.io/badge/React%20Testing%20Library-111827?style=for-the-badge&logo=testinglibrary&logoColor=E33332" />
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=FF6C37" />
+  <img alt="Chrome DevTools" src="https://img.shields.io/badge/Chrome%20DevTools-111827?style=for-the-badge&logo=googlechrome&logoColor=4285F4" />
+  <img alt="VS Code Debugger" src="https://img.shields.io/badge/VS%20Code%20Debugger-111827?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-111827?style=for-the-badge&logo=githubactions&logoColor=2088FF" />
+</p>
+
+## About Me
+
+- I build modern web apps using **React/Next.js** and **Node.js**.
+- Interested in **clean UI**, **scalable APIs**, and **real-world projects**.
+- Always learning and improving.
+
+---
+
+
+
+---
+## Workshops
+
+- **C & C++** — Spoken Tutorial Project, IIT Bombay  
+- **HTML** — Spoken Tutorial Project, IIT Bombay  
+- **PHP & MySQL** — Spoken Tutorial Project, IIT Bombay  
+- **RDBMS** — Spoken Tutorial Project, IIT Bombay  
+- **Python (50 hours)** — PDPM Institute of Technology Designing and Manufacturing, Jabalpur  
+- **AI/ML (24 hours)** — PDPM Institute of Technology Designing and Manufacturing, Jabalpur  
+- **Advanced Research Methodology** — SRM Institute of Science and Technology, Ramapuram Campus
 ---
 
 ## 📄 Resume (Preview)
 
 <details>
-  <summary><b>Click to view resume preview</b></summary>
+  <summary><b>📄 Resume (PDF)</b></summary>
   <br />
-  <img src="image.png" alt="Resume preview" />
+
+  [![Resume PDF](https://img.shields.io/badge/Resume-PDF-ef4444?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](Dhanush%20M%20v4.pdf)
+
+  - View / Download: **[Dhanush M v4.pdf](Dhanush%20M%20v4.pdf)**
 </details>
+
+---
+
+## ⭐ Highlights
+
+- ✅ Solved **100+** coding problems (DSA practice)
+- ✅ Built **full-stack MERN** applications with authentication and dashboards
+- ✅ Comfortable with **Git workflow**, clean documentation, and collaboration
+- ✅ Strong debugging and problem-solving mindset
+
+---
+
+## 💡 Strengths & Interests
+
+**Soft Skills / Strengths**
+- Fast learner, team player, good communicator, adaptable
+- Ownership mindset, debugging & root-cause analysis
+- Problem-solving, attention to detail, time management
+
+**Hobbies & Interests**
+- Building side projects with React / Next.js
+- Competitive coding on LeetCode & HackerRank
+- Reading tech articles
+- Exploring UI design trends
+
+**Personal Development**
+- Actively follow tech channels and developer content
+- Stay updated with JavaScript, React, and full-stack trends
+- Apply concepts by building projects and experimenting
+- Regularly review code and improve through GitHub
+
+---
+
+## 🚀 Projects (Summary)
+
+### CRP/ERM Web Application (College Mini Project) — Full Stack Developer
+- Developed a full-stack CRP/ERM app to streamline customer relationship management and internal resource tracking.
+- Built modules for user authentication, employee/client management, project tracking, task assignments, and reporting dashboards.
+- Tech: **MongoDB, Express.js, React.js, Node.js (MERN)**
+
+### E-Commerce Web Application (College Project) — Full Stack Developer
+- Built a responsive full-stack e-commerce app with product browsing, cart management, and ordering.
+- Implemented authentication, admin dashboard (product & order management), and RESTful backend APIs.
+- Tech: **MongoDB, Express.js, React.js, Node.js (MERN)**
 
 ---
 
@@ -74,3 +160,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,100:0ea5e9&height=3&section=footer" alt="footer line" />
 </p>
+
+
+
