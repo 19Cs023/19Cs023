@@ -129,7 +129,7 @@
 
 ---
 
-## 🚀 Projects (Summary)
+## 🚀 academic Projects (Summary)
 
 ### CRP/ERM Web Application (College Mini Project) — Full Stack Developer
 - Developed a full-stack CRP/ERM app to streamline customer relationship management and internal resource tracking.
@@ -141,6 +141,7 @@
 - Implemented authentication, admin dashboard (product & order management), and RESTful backend APIs.
 - Tech: **MongoDB, Express.js, React.js, Node.js (MERN)**
 
+✅ To see all my latest and interenting personal projects, go to my portfolio page
 ---
 
 ## 📫 Contact
