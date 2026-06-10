@@ -80,18 +80,6 @@
 
 ---
 
-## 📄 Resume (PDF)
-
-<p align="left">
-  <a href="Dhanush%20M%20v4.pdf">
-    <img src="https://img.shields.io/badge/Resume-PDF-ef4444?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume PDF" />
-  </a>
-</p>
-
-- View / Download: **[Dhanush M v4.pdf](Dhanush%20M%20v4.pdf)**
-
----
-
 ## ⭐ Highlights
 
 <p align="left">
@@ -100,10 +88,11 @@
   <img src="https://img.shields.io/badge/Focus-Clean%20UI%20%26%20APIs-0ea5e9?style=for-the-badge" alt="Focus" />
 </p>
 
-- ✅ Solved **100+** coding problems (DSA practice)
-- ✅ Built **full-stack MERN** applications with authentication and dashboards
+- ✅ Solved **500+** coding problems (DSA practice)
+- ✅ Built **12+ full-stack MERN** applications with authentication and dashboards
 - ✅ Comfortable with **Git workflow**, clean documentation, and collaboration
 - ✅ Strong debugging and problem-solving mindset
+- ✅ comfortable working with multiple backend technologies and databases
 
 ---
 
